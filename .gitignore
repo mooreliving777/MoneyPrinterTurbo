@@ -28,6 +28,9 @@ node_modules
 venv/
 .venv
 
+# Moore Media AI generated runtime wrapper
+/webui/_moore_media_ai_runtime.py
+
 # Debug and test files
 CLAUDE.md
 debug/
