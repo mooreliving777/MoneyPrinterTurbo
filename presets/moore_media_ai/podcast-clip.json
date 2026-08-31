@@ -6,7 +6,7 @@
     "video_aspect": "9:16",
     "video_fit_mode": "cover",
     "video_concat_mode": "sequential",
-    "video_transition_mode": "none",
+    "video_transition_mode": null,
     "video_clip_duration": 5,
     "match_materials_to_script": true,
     "video_count": 1,
