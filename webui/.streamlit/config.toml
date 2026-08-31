@@ -6,3 +6,10 @@ toolbarMode = "minimal"
 
 [logger]
 hideWelcomeMessage = true
+
+[theme]
+primaryColor = "#FFD700"
+backgroundColor = "#0A0A23"
+secondaryBackgroundColor = "#15152F"
+textColor = "#FFFFFF"
+font = "sans serif"

@@ -1,0 +1,29 @@
+{
+  "schema": "moneyprinterturbo.settings-preset",
+  "version": 1,
+  "app_version": "1.3.5",
+  "params": {
+    "video_aspect": "9:16",
+    "video_fit_mode": "cover",
+    "video_concat_mode": "random",
+    "video_transition_mode": "ZoomIn",
+    "video_clip_duration": 2,
+    "match_materials_to_script": true,
+    "video_count": 1,
+    "video_source": "pexels",
+    "voice_volume": 1.0,
+    "voice_rate": 1.0,
+    "bgm_type": "random",
+    "bgm_volume": 0.18,
+    "subtitle_enabled": true,
+    "subtitle_position": "bottom",
+    "custom_position": 70.0,
+    "text_fore_color": "#FFFFFF",
+    "font_size": 68,
+    "stroke_color": "#000000",
+    "stroke_width": 2.0,
+    "paragraph_number": 2,
+    "video_script_prompt": "Write a concise music-release promo for a vertical video. Establish the artist and release immediately, describe the mood or story without inventing achievements, and end with a clear listen/follow/save call to action. Keep it suitable for 20-40 seconds.",
+    "custom_system_prompt": "You are the music marketing producer for Moore Media AI. Create sharp, cinematic release promos that feel authentic to independent artists. Avoid fabricated chart positions, press quotes, audience numbers, or endorsements."
+  }
+}
